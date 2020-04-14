@@ -1,11 +1,10 @@
 # Computer-Architecture-Project
 Computer Architecture Team Project
 
-/* What I did : change C code into Assembly code, mainly in charge of phase 3 
-- resolve all of phase 2 problems so assembly code can simulate on SPIM simulator
-- use float rather than double, registers evenly, etc. to make better code
-- also make the code run on different problem (e.g. availble when the place of cities are changed)
-*/
+> What I did : change C code into Assembly code, mainly in charge of phase 3 
+> resolve all of phase 2 problems so assembly code can simulate on SPIM simulator
+> use float rather than double, registers evenly, etc. to make better code
+> also make the code run on different problem (e.g. availble when the place of cities are changed)   
 
 ## Phase 1. TSP C programming
 * bit masking to check where we have been visiting
