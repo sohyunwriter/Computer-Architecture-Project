@@ -20,5 +20,7 @@ Computer Architecture Team Project
 
 
 ![spimSimul](https://user-images.githubusercontent.com/44013936/79199010-4ad27e80-7e6f-11ea-9f00-e5679bd4ba2d.jpg)   
+
+
 ![spimIC](https://user-images.githubusercontent.com/44013936/79199131-79505980-7e6f-11ea-8a84-1065d6e29e88.jpg)
 
