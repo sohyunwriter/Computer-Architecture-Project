@@ -1,4 +1,4 @@
-# computer-architecture-project
+# Computer-Architecture-Project
 Computer Architecture Team Project
 
 ## Phase 1. TSP C programming
