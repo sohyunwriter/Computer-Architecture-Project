@@ -16,4 +16,4 @@ Computer Architecture Team Project
 * use float data, rather than double : Can use simpler instruction, and less memory space
 * use more registers to avoid spending resources to move register : Registers are used as cache, so can reduce memory access and the number of instructions   
 
--Total instruction: 66350   
+* Total instruction: 66350   
